@@ -1,114 +1,119 @@
-import requests
-import json
-import os
-from datetime import datetime
+const fs = require("fs");
+const path = require("path");
+const axios = require("axios");
 
-LEETCODE_USERNAME = os.getenv("LEETCODE_USERNAME")
-LEETCODE_PASSWORD = os.getenv("LEETCODE_PASSWORD")
+const username = process.env.LEETCODE_USERNAME;
+const password = process.env.LEETCODE_PASSWORD;
 
-login_url = "https://leetcode.com/accounts/login/"
-graphql_url = "https://leetcode.com/graphql"
+const loginUrl = "https://leetcode.com/accounts/login/";
+const graphqlUrl = "https://leetcode.com/graphql";
 
-session = requests.Session()
+const axiosInstance = axios.create({
+  withCredentials: true,
+  headers: {
+    "User-Agent": "Mozilla/5.0",
+  },
+});
 
-# ------------------ LOGIN ------------------
-def leetcode_login():
-    session.get(login_url)
-    csrftoken = session.cookies["csrftoken"]
+async function login() {
+  const res = await axiosInstance.get(loginUrl);
+  const csrf = res.headers["set-cookie"]
+    .find((c) => c.startsWith("csrftoken"))
+    .split(";")[0]
+    .split("=")[1];
 
-    payload = {
-        "login": LEETCODE_USERNAME,
-        "password": LEETCODE_PASSWORD,
-        "csrfmiddlewaretoken": csrftoken
+  await axiosInstance.post(
+    loginUrl,
+    new URLSearchParams({
+      login: username,
+      password: password,
+      csrfmiddlewaretoken: csrf,
+    }),
+    {
+      headers: {
+        Referer: loginUrl,
+        Cookie: `csrftoken=${csrf}`,
+      },
     }
+  );
+}
 
-    session.post(login_url, data=payload, headers={"Referer": login_url})
-
-# ------------------ FETCH SUBMISSIONS ------------------
-def fetch_submissions():
-    query = {
-        "query": """
-            query recentAcSubmissions($username: String!) {
-                recentAcSubmissionList(username: $username) {
-                    titleSlug
-                    title
-                    lang
-                }
-            }
-        """,
-        "variables": {
-            "username": LEETCODE_USERNAME
+async function fetchRecentAccepted() {
+  const body = {
+    query: `
+      query recentAcSubmissions($username: String!) {
+        recentAcSubmissionList(username: $username) {
+          title
+          titleSlug
+          lang
         }
-    }
+      }
+    `,
+    variables: { username },
+  };
 
-    res = session.post(graphql_url, json=query, headers={"Referer": "https://leetcode.com"})
-    data = res.json()
+  const res = await axiosInstance.post(graphqlUrl, body, {
+    headers: { Referer: "https://leetcode.com" },
+  });
 
-    return data["data"]["recentAcSubmissionList"]
+  return res.data.data.recentAcSubmissionList || [];
+}
 
-# ------------------ FETCH CODE FOR EACH PROBLEM ------------------
-def fetch_submission_code(slug):
-    url = f"https://leetcode.com/problems/{slug}/submit/"
-    res = session.get(url)
+async function fetchCode(slug) {
+  try {
+    const res = await axiosInstance.get(`https://leetcode.com/problems/${slug}/submit/`);
+    const html = res.data;
 
-    if "submissionCode" not in res.text:
-        return None
+    const start = html.indexOf("submissionCode") + 17;
+    const codeStart = html.indexOf(":", start) + 2;
+    const codeEnd = html.indexOf(",\"editCodeUrl\"") - 1;
 
-    try:
-        start = res.text.index("submissionCode") + 17
-        start = res.text.index(":", start) + 2
-        end = res.text.index(",\"editCodeUrl\"") - 1
-        code = res.text[start:end].encode("utf-8").decode("unicode_escape")
-        return code
-    except:
-        return None
+    let code = html.substring(codeStart, codeEnd);
+    code = JSON.parse(`"${code}"`);
+    return code;
+  } catch (e) {
+    return null;
+  }
+}
 
-# ------------------ SAVE CODE TO FOLDERS ------------------
-def save_code(title, slug, lang, code):
-    folder = ""
+function saveCode(title, slug, lang, code) {
+  // ONLY SAVE JAVA
+  if (!lang.toLowerCase().includes("java")) return;
 
-    title_clean = title.lower().replace(" ", "-")
+  const titleClean = title.toLowerCase().replace(/ /g, "-");
 
-    if "list" in title.lower():
-        folder = "linked-list"
-    elif "array" in title.lower():
-        folder = "arrays"
-    elif "string" in title.lower():
-        folder = "strings"
-    elif "tree" in title.lower():
-        folder = "binary-tree"
-    elif "dp" in title.lower():
-        folder = "dp"
-    elif "graph" in title.lower():
-        folder = "graphs"
-    else:
-        folder = "others"
+  let folder = "others";
+  const t = title.toLowerCase();
 
-    ext = "java" if "java" in lang.lower() else "py"
+  if (t.includes("list")) folder = "linked-list";
+  else if (t.includes("tree")) folder = "binary-tree";
+  else if (t.includes("array")) folder = "arrays";
+  else if (t.includes("string")) folder = "strings";
+  else if (t.includes("graph")) folder = "graphs";
+  else if (t.includes("dp")) folder = "dp";
 
-    file_path = f"{folder}/{title_clean}.{ext}"
+  const filePath = `${folder}/${titleClean}.java`;
 
-    os.makedirs(folder, exist_ok=True)
+  if (!fs.existsSync(folder)) fs.mkdirSync(folder);
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(code)
+  fs.writeFileSync(filePath, code, "utf8");
+}
 
-# ------------------ MAIN ------------------
-def main():
-    print("Logging into LeetCode...")
-    leetcode_login()
+async function main() {
+  console.log("Logging in...");
+  await login();
 
-    print("Fetching submissions...")
-    subs = fetch_submissions()
+  console.log("Fetching recent accepted submissions...");
+  const subs = await fetchRecentAccepted();
 
-    for sub in subs:
-        code = fetch_submission_code(sub["titleSlug"])
-        if not code:
-            continue
+  for (const sub of subs) {
+    const code = await fetchCode(sub.titleSlug);
+    if (!code) continue;
 
-        save_code(sub["title"], sub["titleSlug"], sub["lang"], code)
+    saveCode(sub.title, sub.titleSlug, sub.lang, code);
+  }
 
-    print("Done saving all accepted submissions.")
+  console.log("Done saving Java solutions!");
+}
 
-if __name__ == "__main__":
-    main()
+main();
