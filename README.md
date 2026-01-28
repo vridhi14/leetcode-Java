@@ -19,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 ## Math
@@ -33,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/vridhi14/leetcode-Java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
