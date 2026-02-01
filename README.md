@@ -30,11 +30,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
