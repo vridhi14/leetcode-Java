@@ -36,11 +36,13 @@
 | [0048-rotate-image](https://github.com/vridhi14/leetcode-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
+| [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
