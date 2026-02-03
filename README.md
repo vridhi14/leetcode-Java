@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vridhi14/leetcode-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vridhi14/leetcode-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vridhi14/leetcode-Java/tree/master/0075-sort-colors) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/vridhi14/leetcode-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vridhi14/leetcode-Java/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/vridhi14/leetcode-Java/tree/master/0048-rotate-image) |
@@ -77,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vridhi14/leetcode-Java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vridhi14/leetcode-Java/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vridhi14/leetcode-Java/tree/master/0169-majority-element) |
