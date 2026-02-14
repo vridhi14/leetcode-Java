@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/vridhi14/leetcode-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
@@ -100,6 +101,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vridhi14/leetcode-Java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
