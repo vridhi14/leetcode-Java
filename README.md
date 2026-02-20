@@ -78,6 +78,7 @@
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/vridhi14/leetcode-Java/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vridhi14/leetcode-Java/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
@@ -99,6 +100,7 @@
 | [0035-search-insert-position](https://github.com/vridhi14/leetcode-Java/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -134,6 +136,7 @@
 | [0053-maximum-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vridhi14/leetcode-Java/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [0048-rotate-image](https://github.com/vridhi14/leetcode-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vridhi14/leetcode-Java/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
 | ------- |
