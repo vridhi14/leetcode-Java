@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vridhi14/leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0169-majority-element](https://github.com/vridhi14/leetcode-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/vridhi14/leetcode-Java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
