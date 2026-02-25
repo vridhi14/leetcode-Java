@@ -222,6 +222,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/vridhi14/leetcode-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vridhi14/leetcode-Java/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
@@ -243,6 +244,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vridhi14/leetcode-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vridhi14/leetcode-Java/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
