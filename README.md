@@ -79,6 +79,7 @@
 | [0075-sort-colors](https://github.com/vridhi14/leetcode-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vridhi14/leetcode-Java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vridhi14/leetcode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vridhi14/leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vridhi14/leetcode-Java/tree/master/0128-longest-consecutive-sequence) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vridhi14/leetcode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/vridhi14/leetcode-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vridhi14/leetcode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/0496-next-greater-element-i) |
@@ -265,6 +267,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vridhi14/leetcode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
