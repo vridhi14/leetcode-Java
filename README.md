@@ -85,6 +85,7 @@
 | [0048-rotate-image](https://github.com/vridhi14/leetcode-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vridhi14/leetcode-Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vridhi14/leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vridhi14/leetcode-Java/tree/master/0075-sort-colors) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vridhi14/leetcode-Java/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vridhi14/leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/vridhi14/leetcode-Java/tree/master/0322-coin-change) |
@@ -242,6 +244,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vridhi14/leetcode-Java/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
