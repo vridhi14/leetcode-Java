@@ -6,7 +6,7 @@ class Solution {
         List<int[]> res = new ArrayList<>();
         
         // Step 2: Add first interval
-        int[] curr = intervals[0];
+        int[] curr    = intervals[0];
         res.add(curr);
         
         // Step 3: Iterate and merge
