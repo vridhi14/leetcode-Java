@@ -294,6 +294,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vridhi14/leetcode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/vridhi14/leetcode-Java/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/vridhi14/leetcode-Java/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vridhi14/leetcode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/1021-remove-outermost-parentheses) |
@@ -324,6 +325,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/vridhi14/leetcode-Java/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/vridhi14/leetcode-Java/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
