@@ -101,6 +101,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/vridhi14/leetcode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/vridhi14/leetcode-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vridhi14/leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vridhi14/leetcode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/vridhi14/leetcode-Java/tree/master/0135-candy) |
@@ -222,6 +223,7 @@
 | [0055-jump-game](https://github.com/vridhi14/leetcode-Java/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/vridhi14/leetcode-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vridhi14/leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/vridhi14/leetcode-Java/tree/master/0322-coin-change) |
