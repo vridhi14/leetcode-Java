@@ -431,6 +431,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/vridhi14/leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -462,11 +463,13 @@
 | [0222-count-complete-tree-nodes](https://github.com/vridhi14/leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
