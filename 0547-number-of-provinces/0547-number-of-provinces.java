@@ -13,12 +13,11 @@ class Solution {
         return provinces;
     }
 
-    private void dfs(int node, int[][] graph, boolean[] visited) {
-        visited[node] = true;
-
-        for (int j = 0; j < graph.length; j++) {
-            if (graph[node][j] == 1 && !visited[j]) {
-                dfs(j, graph, visited);
+    private void dfs(int node , int[][]graph , boolean[]visited){
+        visited[node] = true ; 
+        for(int j = 0 ; j<graph.length ; j++){
+            if(graph[node][j]==1 && !visited[j]){
+                dfs( j , graph , visited);
             }
         }
     }
