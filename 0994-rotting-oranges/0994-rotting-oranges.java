@@ -2,51 +2,51 @@ import java.util.*;
 
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int m = grid.length, n = grid[0].length;
+        int fresh = 0 ; 
+        int r = grid.length ; 
+        int c = grid[0].length ; 
+        
         Queue<int[]> q = new LinkedList<>();
-        int fresh = 0;
 
-        // Step 1: Count fresh & push rotten
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 2) {
-                    q.offer(new int[]{i, j});
-                } else if (grid[i][j] == 1) {
-                    fresh++;
+        for(int i = 0 ; i<r ; i++){
+            for(int j = 0 ; j<c ; j++){
+                if(grid[i][j]==2){
+                    q.offer(new int[]{i,j});
+                }
+                else if(grid[i][j]==1){
+                    fresh++ ; 
                 }
             }
-        }
+        } 
+        if(fresh==0) return 0 ; 
+        int min = 0 ; 
+        int[][] dir = {
+            {-1,0},{1,0},{0,-1},{0,1} } ;
 
-        // No fresh oranges
-        if (fresh == 0) return 0;
-
-        int time = 0;
-        int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
-
-        // Step 2: BFS
-        while (!q.isEmpty()) {
+            //BFS 
+        while(!q.isEmpty()){
             int size = q.size();
-            boolean rotted = false;
+            boolean rottenThisMin = false ; 
 
-            for (int i = 0; i < size; i++) {
+            for(int i = 0 ; i<size ; i++){
                 int[] curr = q.poll();
+                int rx = curr[0];
+                int cx = curr[1];
 
-                for (int[] d : dir) {
-                    int r = curr[0] + d[0];
-                    int c = curr[1] + d[1];
+                for(int[] d : dir){
+                    int nr = rx + d[0];
+                    int nc = cx + d[1];
 
-                    if (r >= 0 && c >= 0 && r < m && c < n && grid[r][c] == 1) {
-                        grid[r][c] = 2;
-                        q.offer(new int[]{r, c});
-                        fresh--;
-                        rotted = true;
+                    if( nr>=0 && nc>=0 && nr<r && nc<c && grid[nr][nc]==1){
+                        grid[nr][nc]=2;
+                        fresh -- ; 
+                        q.offer(new int[]{nr, nc});
+                        rottenThisMin = true ; 
                     }
                 }
             }
-
-            if (rotted) time++;
+            if(rottenThisMin){min++;}
         }
-
-        return fresh == 0 ? time : -1;
+        return fresh == 0 ? min : -1 ; 
     }
 }
