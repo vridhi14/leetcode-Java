@@ -1,47 +1,63 @@
-import java.util.*;
-
 class Solution {
+
     public int[][] updateMatrix(int[][] mat) {
-        int m = mat.length;
-        int n = mat[0].length;
-        
-        Queue<int[]> queue = new LinkedList<>();
-        
-        // Step 1: Initialize
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+
+        int rows = mat.length;
+        int cols = mat[0].length;
+
+        Queue<int[]> q = new LinkedList<>();
+
+        // Directions
+        int[][] dir = {
+            {-1, 0},
+            {1, 0},
+            {0, -1},
+            {0, 1}
+        };
+
+        // Step 1:
+        // Put all 0s into queue
+        // Mark 1s as unvisited (-1)
+
+        for (int i = 0; i < rows; i++) {
+
+            for (int j = 0; j < cols; j++) {
+
                 if (mat[i][j] == 0) {
-                    queue.offer(new int[]{i, j});
-                } else {
-                    mat[i][j] = Integer.MAX_VALUE;
+                    q.offer(new int[]{i, j});
+                }
+
+                else {
+                    mat[i][j] = -1;
                 }
             }
         }
-        
-        // Directions: up, down, left, right
-        int[][] dirs = {{0,1}, {0,-1}, {1,0}, {-1,0}};
-        
-        // Step 2: BFS
-        while (!queue.isEmpty()) {
-            int[] curr = queue.poll();
-            int r = curr[0], c = curr[1];
-            
-            for (int[] d : dirs) {
+
+        // BFS
+        while (!q.isEmpty()) {
+
+            int[] curr = q.poll();
+
+            int r = curr[0];
+            int c = curr[1];
+
+            for (int[] d : dir) {
+
                 int nr = r + d[0];
                 int nc = c + d[1];
-                
-                // Check bounds
-                if (nr >= 0 && nr < m && nc >= 0 && nc < n) {
-                    
-                    // Relaxation step
-                    if (mat[nr][nc] > mat[r][c] + 1) {
-                        mat[nr][nc] = mat[r][c] + 1;
-                        queue.offer(new int[]{nr, nc});
-                    }
+
+                // Valid and unvisited
+                if (nr >= 0 && nc >= 0 &&
+                    nr < rows && nc < cols &&
+                    mat[nr][nc] == -1) {
+
+                    mat[nr][nc] = mat[r][c] + 1;
+
+                    q.offer(new int[]{nr, nc});
                 }
             }
         }
-        
+
         return mat;
     }
 }
