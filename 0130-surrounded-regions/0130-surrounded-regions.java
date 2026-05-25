@@ -1,76 +1,49 @@
 class Solution {
-
-    int[] delRow = {-1, 0, 1, 0};
-    int[] delCol = {0, 1, 0, -1};
-
     public void solve(char[][] board) {
-
-        int n = board.length;
-        int m = board[0].length;
-
-        // Step 1: Mark boundary connected O's
-        for(int i = 0; i < n; i++) {
-
-            // first column
-            if(board[i][0] == 'O') {
-                dfs(i, 0, board);
+        int m = board.length ; 
+        int n = board[0].length ; 
+        for(int i =0 ; i< m ; i++){
+            if(board[i][0]=='O'){
+                dfs(board , i , 0);
             }
-
-            // last column
-            if(board[i][m - 1] == 'O') {
-                dfs(i, m - 1, board);
+            if(board[i][n-1]=='O'){
+                dfs(board , i , n-1);
             }
         }
-
-        for(int j = 0; j < m; j++) {
-
-            // first row
-            if(board[0][j] == 'O') {
-                dfs(0, j, board);
+        for(int j=0 ; j<n ; j++){
+            if(board[0][j]=='O'){
+                dfs(board , 0 , j);
             }
-
-            // last row
-            if(board[n - 1][j] == 'O') {
-                dfs(n - 1, j, board);
+            if(board[m-1][j]=='O'){
+                dfs(board , m-1 , j);
             }
         }
-
-        // Step 2: Convert surrounded O -> X
-        // Step 3: Restore T -> O
-
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-
-                if(board[i][j] == 'O') {
-                    board[i][j] = 'X';
-                }
-
-                else if(board[i][j] == 'T') {
-                    board[i][j] = 'O';
-                }
-            }
-        }
+       for(int i = 0 ; i<m ; i++){
+        for(int j = 0 ; j < n ; j++){
+            if(board[i][j]=='O'){board[i][j]='X'; }
+            else if(board[i][j]=='#'){board[i][j]='O';} 
+          }
+       }
     }
 
-    private void dfs(int row, int col, char[][] board) {
+ public void dfs(char[][] board, int row, int col){
 
-        int n = board.length;
-        int m = board[0].length;
-
-        // mark safe
-        board[row][col] = 'T';
-
-        for(int i = 0; i < 4; i++) {
-
-            int nRow = row + delRow[i];
-            int nCol = col + delCol[i];
-
-            if(nRow >= 0 && nRow < n &&
-               nCol >= 0 && nCol < m &&
-               board[nRow][nCol] == 'O') {
-
-                dfs(nRow, nCol, board);
-            }
+        int m = board.length;
+        int n = board[0].length;
+         if (row < 0 || col < 0 || row >= m || col >= n
+                || board[row][col] != 'O') {
+            return;
         }
-    }
+
+         board[row][col] = '#';
+
+        // Explore 4 directions
+        dfs(board, row + 1, col); // down
+        dfs(board, row - 1, col); // up
+        dfs(board, row, col + 1); // right
+        dfs(board, row, col - 1); // left
+
+      }
 }
+
+   
