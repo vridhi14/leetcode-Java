@@ -145,6 +145,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vridhi14/leetcode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vridhi14/leetcode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/vridhi14/leetcode-Java/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vridhi14/leetcode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -168,6 +169,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vridhi14/leetcode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vridhi14/leetcode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/vridhi14/leetcode-Java/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -272,6 +275,7 @@
 | [0994-rotting-oranges](https://github.com/vridhi14/leetcode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vridhi14/leetcode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -379,6 +383,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -451,6 +456,7 @@
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/vridhi14/leetcode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -500,6 +506,7 @@
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
