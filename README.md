@@ -456,6 +456,7 @@
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/vridhi14/leetcode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
@@ -507,6 +508,7 @@
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
@@ -577,11 +579,13 @@
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vridhi14/leetcode-Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 ## Shortest Path
 |  |
 | ------- |
