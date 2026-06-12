@@ -245,6 +245,7 @@
 | [0435-non-overlapping-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vridhi14/leetcode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vridhi14/leetcode-Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -391,6 +392,7 @@
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -463,6 +465,7 @@
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/vridhi14/leetcode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
@@ -517,6 +520,7 @@
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -589,6 +593,7 @@
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vridhi14/leetcode-Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vridhi14/leetcode-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -603,6 +608,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vridhi14/leetcode-Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vridhi14/leetcode-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
