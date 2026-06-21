@@ -130,6 +130,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
@@ -259,6 +260,7 @@
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -324,6 +326,7 @@
 | [0078-subsets](https://github.com/vridhi14/leetcode-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vridhi14/leetcode-Java/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
