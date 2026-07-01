@@ -265,6 +265,7 @@
 | [0063-unique-paths-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/vridhi14/leetcode-Java/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/vridhi14/leetcode-Java/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/vridhi14/leetcode-Java/tree/master/0120-triangle) |
@@ -391,6 +392,7 @@
 | [0022-generate-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/vridhi14/leetcode-Java/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/vridhi14/leetcode-Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vridhi14/leetcode-Java/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0151-reverse-words-in-a-string) |
