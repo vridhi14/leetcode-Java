@@ -164,6 +164,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vridhi14/leetcode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -298,6 +299,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
+| [1043-partition-array-for-maximum-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/vridhi14/leetcode-Java/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vridhi14/leetcode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
