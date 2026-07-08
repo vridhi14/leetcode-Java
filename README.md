@@ -18,6 +18,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/vridhi14/leetcode-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vridhi14/leetcode-Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0160-intersection-of-two-linked-lists) |
@@ -109,6 +110,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vridhi14/leetcode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/vridhi14/leetcode-Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vridhi14/leetcode-Java/tree/master/0120-triangle) |
@@ -219,6 +221,7 @@
 | [0018-4sum](https://github.com/vridhi14/leetcode-Java/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vridhi14/leetcode-Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vridhi14/leetcode-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0229-majority-element-ii) |
