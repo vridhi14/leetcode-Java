@@ -23,6 +23,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/vridhi14/leetcode-Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vridhi14/leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/0647-palindromic-substrings) |
@@ -134,6 +135,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vridhi14/leetcode-Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vridhi14/leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vridhi14/leetcode-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/vridhi14/leetcode-Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vridhi14/leetcode-Java/tree/master/0347-top-k-frequent-elements) |
@@ -193,6 +195,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/vridhi14/leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/vridhi14/leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vridhi14/leetcode-Java/tree/master/0704-binary-search) |
@@ -212,6 +215,7 @@
 | [0136-single-number](https://github.com/vridhi14/leetcode-Java/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/vridhi14/leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/vridhi14/leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vridhi14/leetcode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
