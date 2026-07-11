@@ -109,6 +109,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vridhi14/leetcode-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vridhi14/leetcode-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vridhi14/leetcode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0085-maximal-rectangle) |
@@ -344,6 +345,7 @@
 | [0064-minimum-path-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vridhi14/leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/vridhi14/leetcode-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vridhi14/leetcode-Java/tree/master/0200-number-of-islands) |
@@ -373,6 +375,7 @@
 | [0022-generate-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vridhi14/leetcode-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vridhi14/leetcode-Java/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0494-target-sum) |
@@ -412,6 +415,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/vridhi14/leetcode-Java/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/vridhi14/leetcode-Java/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vridhi14/leetcode-Java/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0151-reverse-words-in-a-string) |
@@ -591,6 +595,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0100-same-tree) |
