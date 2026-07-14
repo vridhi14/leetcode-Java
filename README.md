@@ -150,6 +150,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0518-coin-change-ii) |
@@ -205,6 +206,7 @@
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vridhi14/leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vridhi14/leetcode-Java/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
@@ -258,12 +260,14 @@
 | [0169-majority-element](https://github.com/vridhi14/leetcode-Java/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vridhi14/leetcode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -730,10 +734,16 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
