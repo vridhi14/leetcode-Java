@@ -75,6 +75,7 @@
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vridhi14/leetcode-Java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -394,6 +395,7 @@
 | [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vridhi14/leetcode-Java/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0494-target-sum) |
 ## Greedy
 |  |
@@ -439,6 +441,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/vridhi14/leetcode-Java/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/vridhi14/leetcode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0516-longest-palindromic-subsequence) |
