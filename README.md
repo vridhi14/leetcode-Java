@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0160-intersection-of-two-linked-lists) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 | [1106-parsing-a-boolean-expression](https://github.com/vridhi14/leetcode-Java/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
