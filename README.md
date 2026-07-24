@@ -8,6 +8,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/vridhi14/leetcode-Java/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -25,6 +26,7 @@
 | [0061-rotate-list](https://github.com/vridhi14/leetcode-Java/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/vridhi14/leetcode-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0151-reverse-words-in-a-string) |
