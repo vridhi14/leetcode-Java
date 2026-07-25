@@ -91,6 +91,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/vridhi14/leetcode-Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vridhi14/leetcode-Java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
@@ -276,6 +277,7 @@
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/vridhi14/leetcode-Java/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
