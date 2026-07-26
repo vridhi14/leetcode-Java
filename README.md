@@ -89,6 +89,7 @@
 | [0066-plus-one](https://github.com/vridhi14/leetcode-Java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/vridhi14/leetcode-Java/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
@@ -803,6 +804,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/vridhi14/leetcode-Java/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
 ## Sweep Line
 |  |
