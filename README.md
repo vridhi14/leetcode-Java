@@ -91,6 +91,7 @@
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0492-construct-the-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0492-construct-the-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -185,6 +186,7 @@
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vridhi14/leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/vridhi14/leetcode-Java/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -280,6 +282,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1331-rank-transform-of-an-array) |
