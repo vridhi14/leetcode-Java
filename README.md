@@ -57,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/vridhi14/leetcode-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vridhi14/leetcode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/vridhi14/leetcode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
@@ -90,6 +91,7 @@
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
+| [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
 | [0492-construct-the-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -173,6 +175,7 @@
 | [0312-burst-balloons](https://github.com/vridhi14/leetcode-Java/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/vridhi14/leetcode-Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vridhi14/leetcode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -797,4 +800,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
