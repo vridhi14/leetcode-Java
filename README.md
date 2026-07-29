@@ -226,6 +226,7 @@
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vridhi14/leetcode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vridhi14/leetcode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vridhi14/leetcode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -257,6 +258,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vridhi14/leetcode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/vridhi14/leetcode-Java/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vridhi14/leetcode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/vridhi14/leetcode-Java/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vridhi14/leetcode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/vridhi14/leetcode-Java/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
