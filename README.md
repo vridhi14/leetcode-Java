@@ -11,6 +11,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0707-design-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -585,6 +586,7 @@
 | [0225-implement-stack-using-queues](https://github.com/vridhi14/leetcode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/vridhi14/leetcode-Java/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
