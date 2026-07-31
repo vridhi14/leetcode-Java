@@ -209,6 +209,7 @@
 | [0875-koko-eating-bananas](https://github.com/vridhi14/leetcode-Java/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [0946-validate-stack-sequences](https://github.com/vridhi14/leetcode-Java/tree/master/0946-validate-stack-sequences) |
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/vridhi14/leetcode-Java/tree/master/0994-rotting-oranges) |
@@ -390,6 +391,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0054-spiral-matrix) |
+| [0946-validate-stack-sequences](https://github.com/vridhi14/leetcode-Java/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -542,6 +544,7 @@
 | [0901-online-stock-span](https://github.com/vridhi14/leetcode-Java/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vridhi14/leetcode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/vridhi14/leetcode-Java/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/vridhi14/leetcode-Java/tree/master/1106-parsing-a-boolean-expression) |
