@@ -225,6 +225,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vridhi14/leetcode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vridhi14/leetcode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vridhi14/leetcode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vridhi14/leetcode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/vridhi14/leetcode-Java/tree/master/1539-kth-missing-positive-number) |
@@ -548,6 +549,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/vridhi14/leetcode-Java/tree/master/1106-parsing-a-boolean-expression) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vridhi14/leetcode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
 ## Trie
 |  |
@@ -594,6 +596,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/vridhi14/leetcode-Java/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vridhi14/leetcode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
