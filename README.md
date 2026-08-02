@@ -232,6 +232,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/vridhi14/leetcode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vridhi14/leetcode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vridhi14/leetcode-Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/vridhi14/leetcode-Java/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vridhi14/leetcode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -311,6 +312,7 @@
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vridhi14/leetcode-Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1859-sorting-the-sentence](https://github.com/vridhi14/leetcode-Java/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vridhi14/leetcode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/vridhi14/leetcode-Java/tree/master/3536-maximum-product-of-two-digits) |
