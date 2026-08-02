@@ -67,6 +67,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vridhi14/leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
@@ -197,6 +198,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vridhi14/leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -301,6 +303,7 @@
 | [0435-non-overlapping-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
@@ -337,6 +340,7 @@
 | [0229-majority-element-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vridhi14/leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -622,6 +626,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vridhi14/leetcode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/vridhi14/leetcode-Java/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vridhi14/leetcode-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vridhi14/leetcode-Java/tree/master/1004-max-consecutive-ones-iii) |
