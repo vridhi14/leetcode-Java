@@ -12,6 +12,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
