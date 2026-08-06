@@ -16,6 +16,7 @@
 | [0707-design-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 | [1106-parsing-a-boolean-expression](https://github.com/vridhi14/leetcode-Java/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -603,6 +605,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/vridhi14/leetcode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -666,6 +669,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
