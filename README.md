@@ -204,6 +204,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vridhi14/leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
+| [0406-queue-reconstruction-by-height](https://github.com/vridhi14/leetcode-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -336,6 +337,7 @@
 | [0295-find-median-from-data-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vridhi14/leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/vridhi14/leetcode-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
@@ -889,12 +891,14 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/vridhi14/leetcode-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/vridhi14/leetcode-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Ordered Set
