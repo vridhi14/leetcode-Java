@@ -572,6 +572,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vridhi14/leetcode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0516-longest-palindromic-subsequence) |
+| [0551-student-attendance-record-i](https://github.com/vridhi14/leetcode-Java/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/vridhi14/leetcode-Java/tree/master/0686-repeated-string-match) |
