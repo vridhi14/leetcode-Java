@@ -226,6 +226,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vridhi14/leetcode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vridhi14/leetcode-Java/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
@@ -458,6 +459,7 @@
 | [0130-surrounded-regions](https://github.com/vridhi14/leetcode-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vridhi14/leetcode-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/vridhi14/leetcode-Java/tree/master/0827-making-a-large-island) |
@@ -482,6 +484,7 @@
 | [0221-maximal-square](https://github.com/vridhi14/leetcode-Java/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/vridhi14/leetcode-Java/tree/master/0827-making-a-large-island) |
@@ -724,6 +727,7 @@
 | [0322-coin-change](https://github.com/vridhi14/leetcode-Java/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
@@ -786,6 +790,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
