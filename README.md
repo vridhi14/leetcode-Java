@@ -277,6 +277,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vridhi14/leetcode-Java/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vridhi14/leetcode-Java/tree/master/3689-maximum-total-subarray-value-i) |
@@ -325,6 +326,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vridhi14/leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vridhi14/leetcode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vridhi14/leetcode-Java/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
