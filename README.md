@@ -96,6 +96,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vridhi14/leetcode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -124,6 +125,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vridhi14/leetcode-Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vridhi14/leetcode-Java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vridhi14/leetcode-Java/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vridhi14/leetcode-Java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -398,6 +401,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -558,6 +562,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
