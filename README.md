@@ -458,6 +458,7 @@
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vridhi14/leetcode-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3271-hash-divided-string](https://github.com/vridhi14/leetcode-Java/tree/master/3271-hash-divided-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -597,6 +598,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1859-sorting-the-sentence](https://github.com/vridhi14/leetcode-Java/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vridhi14/leetcode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3271-hash-divided-string](https://github.com/vridhi14/leetcode-Java/tree/master/3271-hash-divided-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vridhi14/leetcode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
