@@ -15,6 +15,7 @@
 | [0328-odd-even-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/vridhi14/leetcode-Java/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -82,6 +83,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/vridhi14/leetcode-Java/tree/master/0895-maximum-frequency-stack) |
@@ -231,6 +233,7 @@
 | [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vridhi14/leetcode-Java/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
@@ -668,6 +671,7 @@
 | [0622-design-circular-queue](https://github.com/vridhi14/leetcode-Java/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/vridhi14/leetcode-Java/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/vridhi14/leetcode-Java/tree/master/0901-online-stock-span) |
@@ -860,6 +864,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/vridhi14/leetcode-Java/tree/master/1392-longest-happy-prefix) |
 ## Memoization
 |  |
