@@ -96,6 +96,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vridhi14/leetcode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vridhi14/leetcode-Java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -401,6 +402,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vridhi14/leetcode-Java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -605,6 +607,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1859-sorting-the-sentence](https://github.com/vridhi14/leetcode-Java/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vridhi14/leetcode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vridhi14/leetcode-Java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3271-hash-divided-string](https://github.com/vridhi14/leetcode-Java/tree/master/3271-hash-divided-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vridhi14/leetcode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
