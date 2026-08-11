@@ -285,6 +285,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2706-buy-two-chocolates](https://github.com/vridhi14/leetcode-Java/tree/master/2706-buy-two-chocolates) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vridhi14/leetcode-Java/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -377,6 +378,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/vridhi14/leetcode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2706-buy-two-chocolates](https://github.com/vridhi14/leetcode-Java/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/vridhi14/leetcode-Java/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -561,6 +563,7 @@
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2706-buy-two-chocolates](https://github.com/vridhi14/leetcode-Java/tree/master/2706-buy-two-chocolates) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vridhi14/leetcode-Java/tree/master/3689-maximum-total-subarray-value-i) |
 ## Enumeration
 |  |
