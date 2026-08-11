@@ -255,6 +255,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vridhi14/leetcode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
+| [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
 | [1043-partition-array-for-maximum-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -361,6 +362,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
+| [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -552,6 +554,7 @@
 | [0860-lemonade-change](https://github.com/vridhi14/leetcode-Java/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vridhi14/leetcode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
+| [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vridhi14/leetcode-Java/tree/master/3689-maximum-total-subarray-value-i) |
 ## Enumeration
@@ -951,4 +954,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
