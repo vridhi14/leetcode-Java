@@ -116,6 +116,7 @@
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/vridhi14/leetcode-Java/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/vridhi14/leetcode-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
@@ -137,6 +138,7 @@
 | [0002-add-two-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vridhi14/leetcode-Java/tree/master/0231-power-of-two) |
 | [1106-parsing-a-boolean-expression](https://github.com/vridhi14/leetcode-Java/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
@@ -332,6 +334,7 @@
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vridhi14/leetcode-Java/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/vridhi14/leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/vridhi14/leetcode-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vridhi14/leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
