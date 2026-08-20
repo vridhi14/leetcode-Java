@@ -295,6 +295,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vridhi14/leetcode-Java/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vridhi14/leetcode-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vridhi14/leetcode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -486,6 +487,7 @@
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vridhi14/leetcode-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vridhi14/leetcode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/vridhi14/leetcode-Java/tree/master/3271-hash-divided-string) |
 ## Union-Find
 |  |
