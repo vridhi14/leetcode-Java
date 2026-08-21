@@ -993,4 +993,12 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
