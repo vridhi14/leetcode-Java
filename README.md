@@ -118,6 +118,7 @@
 | [0062-unique-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vridhi14/leetcode-Java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/vridhi14/leetcode-Java/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/vridhi14/leetcode-Java/tree/master/0231-power-of-two) |
@@ -444,6 +445,7 @@
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vridhi14/leetcode-Java/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/vridhi14/leetcode-Java/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vridhi14/leetcode-Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vridhi14/leetcode-Java/tree/master/0120-triangle) |
@@ -798,6 +800,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0101-symmetric-tree) |
@@ -864,6 +867,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0101-symmetric-tree) |
@@ -889,6 +893,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/vridhi14/leetcode-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
