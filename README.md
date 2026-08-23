@@ -723,6 +723,7 @@
 | [0707-design-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/vridhi14/leetcode-Java/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/vridhi14/leetcode-Java/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vridhi14/leetcode-Java/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vridhi14/leetcode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
@@ -730,6 +731,7 @@
 | [0225-implement-stack-using-queues](https://github.com/vridhi14/leetcode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/vridhi14/leetcode-Java/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vridhi14/leetcode-Java/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/vridhi14/leetcode-Java/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -767,6 +769,7 @@
 | [0295-find-median-from-data-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/vridhi14/leetcode-Java/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vridhi14/leetcode-Java/tree/master/0933-number-of-recent-calls) |
 ## Breadth-First Search
 |  |
 | ------- |
