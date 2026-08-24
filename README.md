@@ -63,6 +63,7 @@
 | [0013-roman-to-integer](https://github.com/vridhi14/leetcode-Java/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/vridhi14/leetcode-Java/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vridhi14/leetcode-Java/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/vridhi14/leetcode-Java/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vridhi14/leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vridhi14/leetcode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/vridhi14/leetcode-Java/tree/master/0133-clone-graph) |
@@ -169,6 +170,7 @@
 | [0045-jump-game-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vridhi14/leetcode-Java/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vridhi14/leetcode-Java/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vridhi14/leetcode-Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vridhi14/leetcode-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0054-spiral-matrix) |
@@ -362,6 +364,7 @@
 | [0015-3sum](https://github.com/vridhi14/leetcode-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vridhi14/leetcode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vridhi14/leetcode-Java/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/vridhi14/leetcode-Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vridhi14/leetcode-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0088-merge-sorted-array) |
@@ -613,6 +616,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vridhi14/leetcode-Java/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/vridhi14/leetcode-Java/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/vridhi14/leetcode-Java/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vridhi14/leetcode-Java/tree/master/0115-distinct-subsequences) |
