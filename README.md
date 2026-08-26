@@ -841,6 +841,7 @@
 | [0257-binary-tree-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/vridhi14/leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/vridhi14/leetcode-Java/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -873,6 +874,7 @@
 | [0310-minimum-height-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/vridhi14/leetcode-Java/tree/master/0563-binary-tree-tilt) |
 | [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
@@ -912,6 +914,7 @@
 | [0257-binary-tree-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/vridhi14/leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/vridhi14/leetcode-Java/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1024,6 +1027,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/vridhi14/leetcode-Java/tree/master/0563-binary-tree-tilt) |
 ## Hungarian Algorithm
 |  |
 | ------- |
