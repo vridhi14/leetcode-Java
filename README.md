@@ -133,6 +133,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/2235-add-two-integers) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/vridhi14/leetcode-Java/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vridhi14/leetcode-Java/tree/master/3536-maximum-product-of-two-digits) |
@@ -505,6 +506,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/vridhi14/leetcode-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vridhi14/leetcode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/vridhi14/leetcode-Java/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3271-hash-divided-string](https://github.com/vridhi14/leetcode-Java/tree/master/3271-hash-divided-string) |
 ## Union-Find
 |  |
