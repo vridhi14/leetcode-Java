@@ -263,6 +263,7 @@
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vridhi14/leetcode-Java/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vridhi14/leetcode-Java/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/vridhi14/leetcode-Java/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/vridhi14/leetcode-Java/tree/master/0946-validate-stack-sequences) |
