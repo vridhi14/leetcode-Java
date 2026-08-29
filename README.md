@@ -13,6 +13,7 @@
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vridhi14/leetcode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/vridhi14/leetcode-Java/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/vridhi14/leetcode-Java/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
@@ -126,6 +127,7 @@
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/vridhi14/leetcode-Java/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0492-construct-the-rectangle) |
@@ -1068,4 +1070,12 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0654-maximum-binary-tree) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/vridhi14/leetcode-Java/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/vridhi14/leetcode-Java/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
