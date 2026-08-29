@@ -130,6 +130,7 @@
 | [0445-add-two-numbers-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/vridhi14/leetcode-Java/tree/master/0738-monotone-increasing-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/2235-add-two-integers) |
@@ -596,6 +597,7 @@
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/vridhi14/leetcode-Java/tree/master/0738-monotone-increasing-digits) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vridhi14/leetcode-Java/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vridhi14/leetcode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
