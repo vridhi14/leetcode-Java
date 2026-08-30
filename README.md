@@ -100,6 +100,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vridhi14/leetcode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/vridhi14/leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1980-find-unique-binary-string](https://github.com/vridhi14/leetcode-Java/tree/master/1980-find-unique-binary-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vridhi14/leetcode-Java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -303,6 +304,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vridhi14/leetcode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/vridhi14/leetcode-Java/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vridhi14/leetcode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/vridhi14/leetcode-Java/tree/master/1980-find-unique-binary-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vridhi14/leetcode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vridhi14/leetcode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
@@ -589,6 +591,7 @@
 | [0257-binary-tree-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0494-target-sum) |
+| [1980-find-unique-binary-string](https://github.com/vridhi14/leetcode-Java/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -672,6 +675,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vridhi14/leetcode-Java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/vridhi14/leetcode-Java/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vridhi14/leetcode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/vridhi14/leetcode-Java/tree/master/1980-find-unique-binary-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vridhi14/leetcode-Java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3271-hash-divided-string](https://github.com/vridhi14/leetcode-Java/tree/master/3271-hash-divided-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vridhi14/leetcode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
