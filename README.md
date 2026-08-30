@@ -308,6 +308,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2706-buy-two-chocolates](https://github.com/vridhi14/leetcode-Java/tree/master/2706-buy-two-chocolates) |
+| [2826-sorting-three-groups](https://github.com/vridhi14/leetcode-Java/tree/master/2826-sorting-three-groups) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vridhi14/leetcode-Java/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vridhi14/leetcode-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -349,6 +350,7 @@
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vridhi14/leetcode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2826-sorting-three-groups](https://github.com/vridhi14/leetcode-Java/tree/master/2826-sorting-three-groups) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -502,6 +504,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vridhi14/leetcode-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2826-sorting-three-groups](https://github.com/vridhi14/leetcode-Java/tree/master/2826-sorting-three-groups) |
 ## Simulation
 |  |
 | ------- |
