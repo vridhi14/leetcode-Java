@@ -265,6 +265,7 @@
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/vridhi14/leetcode-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
@@ -581,6 +582,7 @@
 | [0303-range-sum-query-immutable](https://github.com/vridhi14/leetcode-Java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vridhi14/leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/vridhi14/leetcode-Java/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vridhi14/leetcode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
