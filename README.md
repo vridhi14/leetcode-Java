@@ -48,6 +48,7 @@
 | [0344-reverse-string](https://github.com/vridhi14/leetcode-Java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vridhi14/leetcode-Java/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/0647-palindromic-substrings) |
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/vridhi14/leetcode-Java/tree/master/0986-interval-list-intersections) |
@@ -255,6 +256,7 @@
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vridhi14/leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/vridhi14/leetcode-Java/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vridhi14/leetcode-Java/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0624-maximum-distance-in-arrays) |
@@ -354,6 +356,7 @@
 | [0410-split-array-largest-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/vridhi14/leetcode-Java/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vridhi14/leetcode-Java/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/vridhi14/leetcode-Java/tree/master/0875-koko-eating-bananas) |
@@ -414,6 +417,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vridhi14/leetcode-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/vridhi14/leetcode-Java/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
@@ -622,6 +626,7 @@
 | [0435-non-overlapping-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vridhi14/leetcode-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vridhi14/leetcode-Java/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
