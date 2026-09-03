@@ -151,6 +151,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vridhi14/leetcode-Java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vridhi14/leetcode-Java/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -338,6 +339,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/vridhi14/leetcode-Java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vridhi14/leetcode-Java/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
