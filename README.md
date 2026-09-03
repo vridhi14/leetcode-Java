@@ -271,6 +271,7 @@
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/vridhi14/leetcode-Java/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/vridhi14/leetcode-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
