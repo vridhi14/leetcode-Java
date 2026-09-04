@@ -340,6 +340,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vridhi14/leetcode-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/vridhi14/leetcode-Java/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -602,6 +603,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vridhi14/leetcode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/vridhi14/leetcode-Java/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
