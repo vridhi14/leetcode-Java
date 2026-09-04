@@ -275,6 +275,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/vridhi14/leetcode-Java/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/vridhi14/leetcode-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/vridhi14/leetcode-Java/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [0827-making-a-large-island](https://github.com/vridhi14/leetcode-Java/tree/master/0827-making-a-large-island) |
@@ -729,6 +730,7 @@
 | [0445-add-two-numbers-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/vridhi14/leetcode-Java/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/vridhi14/leetcode-Java/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/vridhi14/leetcode-Java/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
@@ -810,6 +812,7 @@
 | [0085-maximal-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/vridhi14/leetcode-Java/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vridhi14/leetcode-Java/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
