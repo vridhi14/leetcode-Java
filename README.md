@@ -701,6 +701,7 @@
 | [0242-valid-anagram](https://github.com/vridhi14/leetcode-Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/vridhi14/leetcode-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vridhi14/leetcode-Java/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/vridhi14/leetcode-Java/tree/master/0412-fizz-buzz) |
@@ -805,6 +806,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/vridhi14/leetcode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/vridhi14/leetcode-Java/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/vridhi14/leetcode-Java/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -879,6 +881,7 @@
 | [0207-course-schedule](https://github.com/vridhi14/leetcode-Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/vridhi14/leetcode-Java/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
@@ -921,6 +924,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vridhi14/leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/vridhi14/leetcode-Java/tree/master/0563-binary-tree-tilt) |
@@ -957,6 +961,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
@@ -1001,6 +1006,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vridhi14/leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/vridhi14/leetcode-Java/tree/master/0563-binary-tree-tilt) |
