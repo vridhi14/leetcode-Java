@@ -53,6 +53,7 @@
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/vridhi14/leetcode-Java/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/vridhi14/leetcode-Java/tree/master/0763-partition-labels) |
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/vridhi14/leetcode-Java/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
@@ -96,6 +97,7 @@
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/vridhi14/leetcode-Java/tree/master/0763-partition-labels) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/vridhi14/leetcode-Java/tree/master/0895-maximum-frequency-stack) |
@@ -654,6 +656,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/vridhi14/leetcode-Java/tree/master/0738-monotone-increasing-digits) |
+| [0763-partition-labels](https://github.com/vridhi14/leetcode-Java/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vridhi14/leetcode-Java/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vridhi14/leetcode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -713,6 +716,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/vridhi14/leetcode-Java/tree/master/0686-repeated-string-match) |
+| [0763-partition-labels](https://github.com/vridhi14/leetcode-Java/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/vridhi14/leetcode-Java/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vridhi14/leetcode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/1021-remove-outermost-parentheses) |
