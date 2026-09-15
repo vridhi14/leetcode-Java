@@ -583,6 +583,7 @@
 | [0130-surrounded-regions](https://github.com/vridhi14/leetcode-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vridhi14/leetcode-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/vridhi14/leetcode-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
@@ -914,6 +915,7 @@
 | [0322-coin-change](https://github.com/vridhi14/leetcode-Java/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/vridhi14/leetcode-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
@@ -996,6 +998,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/vridhi14/leetcode-Java/tree/master/0563-binary-tree-tilt) |
+| [0684-redundant-connection](https://github.com/vridhi14/leetcode-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
@@ -1098,6 +1101,7 @@
 | [0210-course-schedule-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/vridhi14/leetcode-Java/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/vridhi14/leetcode-Java/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/vridhi14/leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
