@@ -315,6 +315,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/vridhi14/leetcode-Java/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/vridhi14/leetcode-Java/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
@@ -459,6 +460,7 @@
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/vridhi14/leetcode-Java/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vridhi14/leetcode-Java/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1205,8 +1207,13 @@
 | ------- |
 | [0561-array-partition](https://github.com/vridhi14/leetcode-Java/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/vridhi14/leetcode-Java/tree/master/1051-height-checker) |
 ## Radix Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0912-sort-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/vridhi14/leetcode-Java/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
