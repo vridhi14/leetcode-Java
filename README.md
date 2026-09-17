@@ -203,6 +203,7 @@
 | [0055-jump-game](https://github.com/vridhi14/leetcode-Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vridhi14/leetcode-Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vridhi14/leetcode-Java/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vridhi14/leetcode-Java/tree/master/0066-plus-one) |
@@ -578,6 +579,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/vridhi14/leetcode-Java/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/vridhi14/leetcode-Java/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
@@ -609,6 +611,7 @@
 | [0037-sudoku-solver](https://github.com/vridhi14/leetcode-Java/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/vridhi14/leetcode-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vridhi14/leetcode-Java/tree/master/0073-set-matrix-zeroes) |
