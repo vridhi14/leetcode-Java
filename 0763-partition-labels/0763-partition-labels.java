@@ -1,10 +1,11 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
-        int[] last = new int[26]; 
+        int[] last = new int[26]; //stores the end index of the alphabet 
 
         for(int i = 0 ; i<s.length() ;  i++){
             last[s.charAt(i) - 'a'] = i; 
         }
+        
         List<Integer> result = new ArrayList<>();
 
         int start = 0 ; 
