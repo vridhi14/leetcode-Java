@@ -321,6 +321,7 @@
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/vridhi14/leetcode-Java/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vridhi14/leetcode-Java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vridhi14/leetcode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -571,6 +572,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/vridhi14/leetcode-Java/tree/master/1092-shortest-common-supersequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vridhi14/leetcode-Java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vridhi14/leetcode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vridhi14/leetcode-Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
