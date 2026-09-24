@@ -309,6 +309,7 @@
 | [0948-bag-of-tokens](https://github.com/vridhi14/leetcode-Java/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/vridhi14/leetcode-Java/tree/master/0986-interval-list-intersections) |
+| [0990-satisfiability-of-equality-equations](https://github.com/vridhi14/leetcode-Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/vridhi14/leetcode-Java/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vridhi14/leetcode-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -608,6 +609,7 @@
 | [0785-is-graph-bipartite](https://github.com/vridhi14/leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/vridhi14/leetcode-Java/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vridhi14/leetcode-Java/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/vridhi14/leetcode-Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vridhi14/leetcode-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
@@ -762,6 +764,7 @@
 | [0763-partition-labels](https://github.com/vridhi14/leetcode-Java/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/vridhi14/leetcode-Java/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vridhi14/leetcode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0990-satisfiability-of-equality-equations](https://github.com/vridhi14/leetcode-Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/vridhi14/leetcode-Java/tree/master/1092-shortest-common-supersequence) |
@@ -1132,6 +1135,7 @@
 | [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/vridhi14/leetcode-Java/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vridhi14/leetcode-Java/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/vridhi14/leetcode-Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vridhi14/leetcode-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vridhi14/leetcode-Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1791-find-center-of-star-graph](https://github.com/vridhi14/leetcode-Java/tree/master/1791-find-center-of-star-graph) |
