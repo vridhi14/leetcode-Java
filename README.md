@@ -155,6 +155,7 @@
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/2235-add-two-integers) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/vridhi14/leetcode-Java/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/vridhi14/leetcode-Java/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vridhi14/leetcode-Java/tree/master/3536-maximum-product-of-two-digits) |
@@ -598,6 +599,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vridhi14/leetcode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/vridhi14/leetcode-Java/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/vridhi14/leetcode-Java/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3271-hash-divided-string](https://github.com/vridhi14/leetcode-Java/tree/master/3271-hash-divided-string) |
 ## Union-Find
 |  |
@@ -1252,4 +1254,8 @@
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/2305-fair-distribution-of-cookies) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/vridhi14/leetcode-Java/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
