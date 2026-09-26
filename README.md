@@ -352,6 +352,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/vridhi14/leetcode-Java/tree/master/2239-find-closest-number-to-zero) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
+| [2305-fair-distribution-of-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/2305-fair-distribution-of-cookies) |
 | [2418-sort-the-people](https://github.com/vridhi14/leetcode-Java/tree/master/2418-sort-the-people) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2706-buy-two-chocolates](https://github.com/vridhi14/leetcode-Java/tree/master/2706-buy-two-chocolates) |
@@ -424,6 +425,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/vridhi14/leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vridhi14/leetcode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2305-fair-distribution-of-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/2305-fair-distribution-of-cookies) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vridhi14/leetcode-Java/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/vridhi14/leetcode-Java/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -581,6 +583,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vridhi14/leetcode-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2305-fair-distribution-of-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/2305-fair-distribution-of-cookies) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2826-sorting-three-groups](https://github.com/vridhi14/leetcode-Java/tree/master/2826-sorting-three-groups) |
 ## Simulation
@@ -678,6 +681,7 @@
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/vridhi14/leetcode-Java/tree/master/1980-find-unique-binary-string) |
+| [2305-fair-distribution-of-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/2305-fair-distribution-of-cookies) |
 ## Greedy
 |  |
 | ------- |
@@ -1244,4 +1248,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
