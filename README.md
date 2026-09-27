@@ -141,6 +141,7 @@
 | [0231-power-of-two](https://github.com/vridhi14/leetcode-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/vridhi14/leetcode-Java/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/vridhi14/leetcode-Java/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
@@ -172,6 +173,7 @@
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/vridhi14/leetcode-Java/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/vridhi14/leetcode-Java/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vridhi14/leetcode-Java/tree/master/0326-power-of-three) |
 | [1106-parsing-a-boolean-expression](https://github.com/vridhi14/leetcode-Java/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
