@@ -41,6 +41,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/vridhi14/leetcode-Java/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vridhi14/leetcode-Java/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0151-reverse-words-in-a-string) |
@@ -757,6 +758,7 @@
 | [0072-edit-distance](https://github.com/vridhi14/leetcode-Java/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vridhi14/leetcode-Java/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/vridhi14/leetcode-Java/tree/master/0179-largest-number) |
