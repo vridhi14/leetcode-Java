@@ -140,6 +140,7 @@
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/vridhi14/leetcode-Java/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/vridhi14/leetcode-Java/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/vridhi14/leetcode-Java/tree/master/0326-power-of-three) |
@@ -176,6 +177,7 @@
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/vridhi14/leetcode-Java/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/vridhi14/leetcode-Java/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/vridhi14/leetcode-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vridhi14/leetcode-Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/vridhi14/leetcode-Java/tree/master/0509-fibonacci-number) |
@@ -565,6 +567,7 @@
 | [0198-house-robber](https://github.com/vridhi14/leetcode-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/vridhi14/leetcode-Java/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vridhi14/leetcode-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vridhi14/leetcode-Java/tree/master/0312-burst-balloons) |
@@ -765,6 +768,7 @@
 | [0205-isomorphic-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/vridhi14/leetcode-Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
@@ -1134,6 +1138,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/vridhi14/leetcode-Java/tree/master/0509-fibonacci-number) |
 ## Iterator
 |  |
@@ -1271,4 +1276,8 @@
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/vridhi14/leetcode-Java/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
