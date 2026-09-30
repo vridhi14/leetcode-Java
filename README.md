@@ -138,6 +138,7 @@
 | [0062-unique-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vridhi14/leetcode-Java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/vridhi14/leetcode-Java/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/vridhi14/leetcode-Java/tree/master/0223-rectangle-area) |
@@ -426,6 +427,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/vridhi14/leetcode-Java/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/vridhi14/leetcode-Java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vridhi14/leetcode-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0137-single-number-ii) |
@@ -696,6 +698,7 @@
 | [0077-combinations](https://github.com/vridhi14/leetcode-Java/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vridhi14/leetcode-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/vridhi14/leetcode-Java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/vridhi14/leetcode-Java/tree/master/0216-combination-sum-iii) |
