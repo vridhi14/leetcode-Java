@@ -315,6 +315,7 @@
 | [0724-find-pivot-index](https://github.com/vridhi14/leetcode-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vridhi14/leetcode-Java/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [0827-making-a-large-island](https://github.com/vridhi14/leetcode-Java/tree/master/0827-making-a-large-island) |
@@ -601,6 +602,7 @@
 | [0647-palindromic-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vridhi14/leetcode-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vridhi14/leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/0918-maximum-sum-circular-subarray) |
