@@ -1344,4 +1344,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vridhi14/leetcode-Java/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
