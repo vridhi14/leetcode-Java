@@ -251,6 +251,7 @@
 | [0135-candy](https://github.com/vridhi14/leetcode-Java/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vridhi14/leetcode-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vridhi14/leetcode-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -583,6 +584,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vridhi14/leetcode-Java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vridhi14/leetcode-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vridhi14/leetcode-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0213-house-robber-ii) |
