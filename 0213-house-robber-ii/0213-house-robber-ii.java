@@ -1,27 +1,32 @@
 class Solution {
     public int rob(int[] nums) {
-        int n = nums.length ; 
-        if(n ==1) return nums[0]; 
-        int[] arr1= Arrays.copyOfRange(nums , 0 , n-1) ; 
-        int[] arr2= Arrays.copyOfRange(nums , 1 , n) ; 
 
-        return( Math.max (robLinear(arr1) , robLinear(arr2)) ); 
+        int n = nums.length;
+        if (n == 1)
+            return nums[0];
+
+        int case1 = robLinear(nums, 0, n - 2); // don't rob last house 
+        int case2 = robLinear(nums, 1, n - 1); // don't rob 1st house 
+
+        return Math.max(case1, case2);
     }
 
-    private int robLinear(int[] nums){
-        int n = nums.length ; 
-        int[] dp = new int[n]; 
+    private int robLinear(int[] nums, int start, int end) {
 
-        if(n == 1) return nums[0] ;
+        int prev2 = 0;
+        int prev1 = 0;
 
-        dp[0]= nums[0]; 
-        dp[1] = Math.max(nums[0], nums[1]); 
+        for (int i = start; i <= end; i++) {
 
-        for(int i = 2 ; i<n ; i++){
-            int pick = nums[i] + dp[i-2]; 
-            int notPick = dp[i-1];
-            dp[i] = Math.max(pick , notPick); 
+            int pick = nums[i] + prev2;
+            int notPick = prev1;
+
+            int current = Math.max(pick, notPick);
+
+            prev2 = prev1;
+            prev1 = current;
         }
-        return dp[n-1]; 
+
+        return prev1;
     }
 }
