@@ -320,6 +320,7 @@
 | [0724-find-pivot-index](https://github.com/vridhi14/leetcode-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vridhi14/leetcode-Java/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vridhi14/leetcode-Java/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vridhi14/leetcode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
@@ -422,6 +423,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vridhi14/leetcode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/vridhi14/leetcode-Java/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vridhi14/leetcode-Java/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vridhi14/leetcode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/vridhi14/leetcode-Java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/vridhi14/leetcode-Java/tree/master/1004-max-consecutive-ones-iii) |
