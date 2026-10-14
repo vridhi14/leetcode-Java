@@ -143,6 +143,7 @@
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vridhi14/leetcode-Java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vridhi14/leetcode-Java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vridhi14/leetcode-Java/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0096-unique-binary-search-trees) |
@@ -446,6 +447,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/vridhi14/leetcode-Java/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vridhi14/leetcode-Java/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/vridhi14/leetcode-Java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0090-subsets-ii) |
@@ -646,6 +648,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/vridhi14/leetcode-Java/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/vridhi14/leetcode-Java/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/vridhi14/leetcode-Java/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
@@ -807,6 +810,7 @@
 | [0032-longest-valid-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vridhi14/leetcode-Java/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vridhi14/leetcode-Java/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/vridhi14/leetcode-Java/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/vridhi14/leetcode-Java/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/vridhi14/leetcode-Java/tree/master/0091-decode-ways) |
