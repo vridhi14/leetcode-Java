@@ -167,6 +167,7 @@
 | [0836-rectangle-overlap](https://github.com/vridhi14/leetcode-Java/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/vridhi14/leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vridhi14/leetcode-Java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/1922-count-good-numbers) |
@@ -356,6 +357,7 @@
 | [1051-height-checker](https://github.com/vridhi14/leetcode-Java/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vridhi14/leetcode-Java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vridhi14/leetcode-Java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vridhi14/leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vridhi14/leetcode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -780,6 +782,7 @@
 | [0948-bag-of-tokens](https://github.com/vridhi14/leetcode-Java/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vridhi14/leetcode-Java/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vridhi14/leetcode-Java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/vridhi14/leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vridhi14/leetcode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
