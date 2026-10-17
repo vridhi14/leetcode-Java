@@ -567,6 +567,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vridhi14/leetcode-Java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vridhi14/leetcode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vridhi14/leetcode-Java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -779,6 +780,7 @@
 | [0948-bag-of-tokens](https://github.com/vridhi14/leetcode-Java/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/vridhi14/leetcode-Java/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vridhi14/leetcode-Java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/vridhi14/leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vridhi14/leetcode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vridhi14/leetcode-Java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -853,6 +855,7 @@
 | [1048-longest-string-chain](https://github.com/vridhi14/leetcode-Java/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/vridhi14/leetcode-Java/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/vridhi14/leetcode-Java/tree/master/1106-parsing-a-boolean-expression) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vridhi14/leetcode-Java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vridhi14/leetcode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/vridhi14/leetcode-Java/tree/master/1392-longest-happy-prefix) |
