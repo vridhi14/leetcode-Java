@@ -380,6 +380,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1534-count-good-triplets](https://github.com/vridhi14/leetcode-Java/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/vridhi14/leetcode-Java/tree/master/1539-kth-missing-positive-number) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/vridhi14/leetcode-Java/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vridhi14/leetcode-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -801,6 +802,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/vridhi14/leetcode-Java/tree/master/1534-count-good-triplets) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/vridhi14/leetcode-Java/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vridhi14/leetcode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
