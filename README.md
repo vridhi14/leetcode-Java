@@ -378,6 +378,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vridhi14/leetcode-Java/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vridhi14/leetcode-Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1534-count-good-triplets](https://github.com/vridhi14/leetcode-Java/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/vridhi14/leetcode-Java/tree/master/1539-kth-missing-positive-number) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
@@ -799,6 +800,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vridhi14/leetcode-Java/tree/master/0204-count-primes) |
+| [1534-count-good-triplets](https://github.com/vridhi14/leetcode-Java/tree/master/1534-count-good-triplets) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vridhi14/leetcode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
