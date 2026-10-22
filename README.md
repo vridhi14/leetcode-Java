@@ -1065,6 +1065,7 @@
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vridhi14/leetcode-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/vridhi14/leetcode-Java/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vridhi14/leetcode-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
@@ -1166,6 +1167,7 @@
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vridhi14/leetcode-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/vridhi14/leetcode-Java/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vridhi14/leetcode-Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -1282,6 +1284,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/vridhi14/leetcode-Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vridhi14/leetcode-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vridhi14/leetcode-Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1462-course-schedule-iv](https://github.com/vridhi14/leetcode-Java/tree/master/1462-course-schedule-iv) |
 | [1791-find-center-of-star-graph](https://github.com/vridhi14/leetcode-Java/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vridhi14/leetcode-Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vridhi14/leetcode-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1292,6 +1295,7 @@
 | [0210-course-schedule-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/vridhi14/leetcode-Java/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/vridhi14/leetcode-Java/tree/master/1462-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vridhi14/leetcode-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
