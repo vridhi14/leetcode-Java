@@ -155,6 +155,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vridhi14/leetcode-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vridhi14/leetcode-Java/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
@@ -1399,6 +1400,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/vridhi14/leetcode-Java/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Bracket Sequences
@@ -1416,13 +1418,23 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
 ## Brute-Force Search
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vridhi14/leetcode-Java/tree/master/0139-word-break) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
