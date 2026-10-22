@@ -168,6 +168,7 @@
 | [0509-fibonacci-number](https://github.com/vridhi14/leetcode-Java/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/vridhi14/leetcode-Java/tree/master/0738-monotone-increasing-digits) |
+| [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 | [0836-rectangle-overlap](https://github.com/vridhi14/leetcode-Java/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/vridhi14/leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
@@ -334,6 +335,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vridhi14/leetcode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
+| [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [0827-making-a-large-island](https://github.com/vridhi14/leetcode-Java/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
@@ -474,6 +476,7 @@
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/vridhi14/leetcode-Java/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 | [1386-cinema-seat-allocation](https://github.com/vridhi14/leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vridhi14/leetcode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/2305-fair-distribution-of-cookies) |
@@ -1402,6 +1405,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
+| [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/vridhi14/leetcode-Java/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Bracket Sequences
@@ -1421,11 +1425,13 @@
 | ------- |
 | [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/vridhi14/leetcode-Java/tree/master/0319-bulb-switcher) |
+| [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
+| [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
 ## Brute-Force Search
 |  |
@@ -1439,4 +1445,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
