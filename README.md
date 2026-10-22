@@ -156,6 +156,7 @@
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/vridhi14/leetcode-Java/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/vridhi14/leetcode-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vridhi14/leetcode-Java/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
@@ -1419,6 +1420,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/vridhi14/leetcode-Java/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
