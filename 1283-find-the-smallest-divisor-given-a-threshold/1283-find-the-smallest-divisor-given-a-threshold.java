@@ -1,28 +1,25 @@
 class Solution { 
-
-    private int sumOfD(int[] nums, int mid){
-        int sum = 0; 
-        for(int num : nums){
-            sum += (num + mid - 1) / mid;   // integer ceil
-        }
-        return sum; 
-    }
-
     public int smallestDivisor(int[] nums, int threshold) {
-        int low = 1;
-        int high = Arrays.stream(nums).max().getAsInt();
-        int ans = high; 
+        int left = 1 ;
+        int right = 0 ; 
+        for(int num:nums){
+            right = Math.max(right , num); 
+        }
 
-        while(low <= high){
-            int mid = low + (high - low) / 2;
+        while(left < right){
+            int mid = left + (right - left)/2 ; 
+            int sum = 0 ; 
 
-            if(sumOfD(nums, mid) <= threshold){
-                ans = mid; 
-                high = mid - 1;
-            } else {
-                low = mid + 1; 
+            for(int num : nums){
+                sum += (int) Math.ceil((double) num/mid); 
+            }
+
+            if(sum <= threshold){
+                right = mid ; 
+            }else{
+                left = mid+1; 
             }
         }
-        return ans;
+        return left ; 
     }
 }
