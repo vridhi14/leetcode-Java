@@ -412,6 +412,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/vridhi14/leetcode-Java/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vridhi14/leetcode-Java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vridhi14/leetcode-Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vridhi14/leetcode-Java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -484,6 +485,7 @@
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/vridhi14/leetcode-Java/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vridhi14/leetcode-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vridhi14/leetcode-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/vridhi14/leetcode-Java/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Sorting
 |  |
 | ------- |
@@ -1427,6 +1429,7 @@
 | [0319-bulb-switcher](https://github.com/vridhi14/leetcode-Java/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/vridhi14/leetcode-Java/tree/master/1025-divisor-game) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/vridhi14/leetcode-Java/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Impartial Game
 |  |
 | ------- |
