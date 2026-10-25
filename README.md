@@ -109,6 +109,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/vridhi14/leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/vridhi14/leetcode-Java/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/vridhi14/leetcode-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/vridhi14/leetcode-Java/tree/master/0763-partition-labels) |
@@ -324,6 +325,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vridhi14/leetcode-Java/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/vridhi14/leetcode-Java/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/vridhi14/leetcode-Java/tree/master/0695-max-area-of-island) |
@@ -481,6 +483,7 @@
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/vridhi14/leetcode-Java/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0645-set-mismatch](https://github.com/vridhi14/leetcode-Java/tree/master/0645-set-mismatch) |
 | [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 | [1386-cinema-seat-allocation](https://github.com/vridhi14/leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vridhi14/leetcode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -525,6 +528,7 @@
 | [0611-valid-triangle-number](https://github.com/vridhi14/leetcode-Java/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/vridhi14/leetcode-Java/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/vridhi14/leetcode-Java/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0912-sort-an-array) |
