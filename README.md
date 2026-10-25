@@ -339,6 +339,7 @@
 | [0739-daily-temperatures](https://github.com/vridhi14/leetcode-Java/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vridhi14/leetcode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/vridhi14/leetcode-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vridhi14/leetcode-Java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0778-swim-in-rising-water](https://github.com/vridhi14/leetcode-Java/tree/master/0778-swim-in-rising-water) |
 | [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
@@ -529,6 +530,7 @@
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vridhi14/leetcode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vridhi14/leetcode-Java/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vridhi14/leetcode-Java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0846-hand-of-straights](https://github.com/vridhi14/leetcode-Java/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/vridhi14/leetcode-Java/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0912-sort-an-array) |
