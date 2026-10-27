@@ -53,6 +53,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vridhi14/leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/vridhi14/leetcode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/vridhi14/leetcode-Java/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/vridhi14/leetcode-Java/tree/master/0455-assign-cookies) |
@@ -866,6 +867,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/vridhi14/leetcode-Java/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/vridhi14/leetcode-Java/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/vridhi14/leetcode-Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0409-longest-palindrome) |
