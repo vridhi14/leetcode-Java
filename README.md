@@ -97,6 +97,7 @@
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vridhi14/leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vridhi14/leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vridhi14/leetcode-Java/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
 | [0409-longest-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0409-longest-palindrome) |
@@ -589,6 +590,7 @@
 | [0169-majority-element](https://github.com/vridhi14/leetcode-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vridhi14/leetcode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vridhi14/leetcode-Java/tree/master/0621-task-scheduler) |
@@ -868,6 +870,7 @@
 | [0316-remove-duplicate-letters](https://github.com/vridhi14/leetcode-Java/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/vridhi14/leetcode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vridhi14/leetcode-Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0409-longest-palindrome) |
@@ -998,6 +1001,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vridhi14/leetcode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/vridhi14/leetcode-Java/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/vridhi14/leetcode-Java/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/vridhi14/leetcode-Java/tree/master/0933-number-of-recent-calls) |
