@@ -145,6 +145,7 @@
 | [0012-integer-to-roman](https://github.com/vridhi14/leetcode-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vridhi14/leetcode-Java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vridhi14/leetcode-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vridhi14/leetcode-Java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0062-unique-paths) |
@@ -676,6 +677,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vridhi14/leetcode-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vridhi14/leetcode-Java/tree/master/0067-add-binary) |
@@ -845,6 +847,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vridhi14/leetcode-Java/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vridhi14/leetcode-Java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vridhi14/leetcode-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vridhi14/leetcode-Java/tree/master/0067-add-binary) |
