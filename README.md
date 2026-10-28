@@ -846,6 +846,7 @@
 | [0032-longest-valid-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vridhi14/leetcode-Java/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vridhi14/leetcode-Java/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/vridhi14/leetcode-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vridhi14/leetcode-Java/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/vridhi14/leetcode-Java/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vridhi14/leetcode-Java/tree/master/0079-word-search) |
