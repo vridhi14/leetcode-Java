@@ -171,6 +171,7 @@
 | [0382-linked-list-random-node](https://github.com/vridhi14/leetcode-Java/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
 | [0412-fizz-buzz](https://github.com/vridhi14/leetcode-Java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/vridhi14/leetcode-Java/tree/master/0509-fibonacci-number) |
@@ -685,6 +686,7 @@
 | [0059-spiral-matrix-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vridhi14/leetcode-Java/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/vridhi14/leetcode-Java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0415-add-strings) |
 | [0946-validate-stack-sequences](https://github.com/vridhi14/leetcode-Java/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vridhi14/leetcode-Java/tree/master/1441-build-an-array-with-stack-operations) |
@@ -883,6 +885,7 @@
 | [0392-is-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/vridhi14/leetcode-Java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/vridhi14/leetcode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vridhi14/leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0516-longest-palindromic-subsequence) |
