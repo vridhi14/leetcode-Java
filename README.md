@@ -405,6 +405,7 @@
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/vridhi14/leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vridhi14/leetcode-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vridhi14/leetcode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vridhi14/leetcode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/vridhi14/leetcode-Java/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
@@ -696,6 +697,7 @@
 | [0946-validate-stack-sequences](https://github.com/vridhi14/leetcode-Java/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/vridhi14/leetcode-Java/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vridhi14/leetcode-Java/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vridhi14/leetcode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vridhi14/leetcode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/vridhi14/leetcode-Java/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -955,6 +957,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vridhi14/leetcode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/vridhi14/leetcode-Java/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vridhi14/leetcode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
@@ -1024,6 +1027,7 @@
 | [0622-design-circular-queue](https://github.com/vridhi14/leetcode-Java/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vridhi14/leetcode-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/vridhi14/leetcode-Java/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vridhi14/leetcode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
