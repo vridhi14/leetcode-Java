@@ -28,6 +28,7 @@
 | [0706-design-hashmap](https://github.com/vridhi14/leetcode-Java/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -375,6 +376,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vridhi14/leetcode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vridhi14/leetcode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/vridhi14/leetcode-Java/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/vridhi14/leetcode-Java/tree/master/1029-two-city-scheduling) |
 | [1043-partition-array-for-maximum-sum](https://github.com/vridhi14/leetcode-Java/tree/master/1043-partition-array-for-maximum-sum) |
@@ -952,6 +954,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vridhi14/leetcode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/vridhi14/leetcode-Java/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/vridhi14/leetcode-Java/tree/master/1106-parsing-a-boolean-expression) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vridhi14/leetcode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -1043,6 +1046,7 @@
 | [0901-online-stock-span](https://github.com/vridhi14/leetcode-Java/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vridhi14/leetcode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vridhi14/leetcode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
