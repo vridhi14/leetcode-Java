@@ -30,6 +30,7 @@
 | [0817-linked-list-components](https://github.com/vridhi14/leetcode-Java/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vridhi14/leetcode-Java/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vridhi14/leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -964,6 +966,7 @@
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vridhi14/leetcode-Java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vridhi14/leetcode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/vridhi14/leetcode-Java/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vridhi14/leetcode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
