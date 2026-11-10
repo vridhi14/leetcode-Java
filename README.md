@@ -168,6 +168,7 @@
 | [0223-rectangle-area](https://github.com/vridhi14/leetcode-Java/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/vridhi14/leetcode-Java/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/vridhi14/leetcode-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
