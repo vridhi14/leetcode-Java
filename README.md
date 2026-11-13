@@ -174,6 +174,7 @@
 | [0263-ugly-number](https://github.com/vridhi14/leetcode-Java/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/vridhi14/leetcode-Java/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/vridhi14/leetcode-Java/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/vridhi14/leetcode-Java/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/vridhi14/leetcode-Java/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/vridhi14/leetcode-Java/tree/master/0319-bulb-switcher) |
@@ -663,6 +664,7 @@
 | [0221-maximal-square](https://github.com/vridhi14/leetcode-Java/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vridhi14/leetcode-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/vridhi14/leetcode-Java/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vridhi14/leetcode-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vridhi14/leetcode-Java/tree/master/0312-burst-balloons) |
@@ -1114,6 +1116,7 @@
 | [0207-course-schedule](https://github.com/vridhi14/leetcode-Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/vridhi14/leetcode-Java/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/vridhi14/leetcode-Java/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/vridhi14/leetcode-Java/tree/master/0322-coin-change) |
@@ -1462,6 +1465,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/vridhi14/leetcode-Java/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -1528,4 +1532,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vridhi14/leetcode-Java/tree/master/0164-maximum-gap) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/vridhi14/leetcode-Java/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
