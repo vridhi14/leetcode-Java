@@ -186,6 +186,7 @@
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/vridhi14/leetcode-Java/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/vridhi14/leetcode-Java/tree/master/0391-perfect-rectangle) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vridhi14/leetcode-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/vridhi14/leetcode-Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0445-add-two-numbers-ii) |
@@ -512,6 +513,7 @@
 | [0342-power-of-four](https://github.com/vridhi14/leetcode-Java/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/vridhi14/leetcode-Java/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/vridhi14/leetcode-Java/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vridhi14/leetcode-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vridhi14/leetcode-Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/vridhi14/leetcode-Java/tree/master/0645-set-mismatch) |
 | [0810-chalkboard-xor-game](https://github.com/vridhi14/leetcode-Java/tree/master/0810-chalkboard-xor-game) |
@@ -915,6 +917,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vridhi14/leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vridhi14/leetcode-Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vridhi14/leetcode-Java/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vridhi14/leetcode-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/vridhi14/leetcode-Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vridhi14/leetcode-Java/tree/master/0415-add-strings) |
