@@ -92,6 +92,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vridhi14/leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vridhi14/leetcode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vridhi14/leetcode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/vridhi14/leetcode-Java/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/vridhi14/leetcode-Java/tree/master/0139-word-break) |
@@ -810,6 +811,7 @@
 | [0093-restore-ip-addresses](https://github.com/vridhi14/leetcode-Java/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/vridhi14/leetcode-Java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vridhi14/leetcode-Java/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/vridhi14/leetcode-Java/tree/master/0257-binary-tree-paths) |
@@ -894,6 +896,7 @@
 | [0097-interleaving-string](https://github.com/vridhi14/leetcode-Java/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/vridhi14/leetcode-Java/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vridhi14/leetcode-Java/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/vridhi14/leetcode-Java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/vridhi14/leetcode-Java/tree/master/0139-word-break) |
@@ -1118,6 +1121,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/vridhi14/leetcode-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vridhi14/leetcode-Java/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vridhi14/leetcode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0126-word-ladder-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/vridhi14/leetcode-Java/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/vridhi14/leetcode-Java/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vridhi14/leetcode-Java/tree/master/0199-binary-tree-right-side-view) |
@@ -1549,4 +1553,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/vridhi14/leetcode-Java/tree/master/0279-perfect-squares) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/vridhi14/leetcode-Java/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
